@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tolot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tolot\\.nuget\\packages"
+    ]
+  }
+}
