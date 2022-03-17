@@ -46,7 +46,7 @@ namespace ChoixSejour.Models
         public string Email { get; set; }
 
         public virtual Panier Panier { get; set; }
-        
+        // test
         public virtual ICollection<Commande> Commandes { get; set; }
     }
 }
